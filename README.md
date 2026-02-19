@@ -1,23 +1,38 @@
-# 🎮 Typing Master Pro
+# ⌨️ Typing Master Pro
 
-A gamified typing speed desktop application built using Python and Pygame.
+Typing Master Pro is a Python-based typing practice application built using Pygame.  
+It helps users improve typing speed and accuracy through interactive challenges.
 
 ## 🚀 Features
-- 10 progressive levels
-- Real-time accuracy & WPM calculation
-- Difficulty modes (Easy, Medium, Hard)
-- Dynamic scoring system
-- Persistent Top 10 leaderboard (JSON storage)
-- Particle animations & sound effects
+- Real-time typing speed (WPM) calculation
+- Accuracy tracking
+- Score system
+- Timer-based typing tests
+- Sound effects for feedback
+- Clean and user-friendly interface
 
-## 🛠 Tech Stack
-- Python
+## 🛠️ Technologies Used
+- Python 3
 - Pygame
 - NumPy
-- JSON
+- Git & GitHub
 
-## ▶️ How to Run
+## 🎯 How to Run
 
-```bash
-pip install pygame numpy
-python main.py
+1. Clone the repository:
+   git clone https://github.com/Vikkyreddy08/typing-master-pro.git
+
+2. Install dependencies:
+   pip install pygame numpy
+
+3. Run the project:
+   python main.py
+
+## 📌 Future Improvements
+- Add difficulty levels
+- Add leaderboard system
+- Add user login system
+- Add dark/light mode
+
+## 👨‍💻 Author
+Nandeeshwar Reddy
